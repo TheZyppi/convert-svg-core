@@ -40,8 +40,5 @@
     "mocha": "^5.0.0",
     "sinon": "^4.2.2"
   },
-  "main": "src/index.js",
-  "engines": {
-    "node": ">=8"
-  }
+  "main": "src/index.js"
 }
